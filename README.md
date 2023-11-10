@@ -5,6 +5,10 @@ Welcome to the first Homework of the Artificial Neural Networks and Deep Learnin
 
 In this homework you are asked to classify plants (like the ones in the example image below) that are divided into two categories according to their state of health. It is a binary classification problem, so the goal is to predict the correct class label in {0, 1}.
 
+### Important link:
+to the folder wiht data + tips 
+https://drive.google.com/drive/folders/152B-_69uFDqnDyBIbS0gEhjlwHmqEKeB?usp=drive_link
+
 
 # Data
 Dataset Details:
