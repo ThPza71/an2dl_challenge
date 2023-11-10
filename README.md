@@ -18,6 +18,8 @@ set1_score_f1: 0.666666666667
 
 we still need to combine data augmentation with transfer learning, and adjust our parameters, it is only the beginning.
 
+Also we found some outliers in the database, still need to take care of that.
+
 
 # Data
 Dataset Details:
