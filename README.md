@@ -9,6 +9,15 @@ In this homework you are asked to classify plants (like the ones in the example 
 to the folder wiht data + tips 
 https://drive.google.com/drive/folders/152B-_69uFDqnDyBIbS0gEhjlwHmqEKeB?usp=drive_link
 
+For the moment we tried simple data augmentation (zoom, flip, contrast...), and use of transfer learning that gives the best results for the moment. 
+Our best upload on codalab gave those results :
+set1_score_accuracy: 0.780000000000
+set1_score_precision: 0.785714285714
+set1_score_recall: 0.578947368421
+set1_score_f1: 0.666666666667
+
+we still need to combine data augmentation with transfer learning, and adjust our parameters, it is only the beginning.
+
 
 # Data
 Dataset Details:
